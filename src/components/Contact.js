@@ -44,7 +44,7 @@ const Contact = () => {
 
             <div className='contact-items'>
                 <div className='contact-input'>
-                    <form onSubmit={sendEmail}>
+                    <form onSubmit={sendEmail} className='contact-form'>
                         <input className='c-input' placeholder='Name' name="from_name" required></input>
                         <input className='c-input' placeholder='Email' name="email_id" required></input>
                         <textarea className='c-input' id='c-textarea' placeholder='Message' name="message" required></textarea>
