@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/patel_yash/static/css/main.c7cfcab8.css",
+    "main.js": "/patel_yash/static/js/main.073905ec.js",
+    "static/js/453.bb257cf5.chunk.js": "/patel_yash/static/js/453.bb257cf5.chunk.js",
+    "static/media/fashion4you.png": "/patel_yash/static/media/fashion4you.f1cec3c42504b53c240a.png",
+    "static/media/newsNetwork.png": "/patel_yash/static/media/newsNetwork.b2eda337cc9dcdab9a47.png",
+    "static/media/Patel_Yash.pdf": "/patel_yash/static/media/Patel_Yash.9d557f651c414ee10da2.pdf",
+    "static/media/textEditor.png": "/patel_yash/static/media/textEditor.5dbec51e1ed3a3e40410.png",
+    "static/media/web-icon.png": "/patel_yash/static/media/web-icon.84c42f24cbfbd7379fa4.png",
+    "static/media/about.png": "/patel_yash/static/media/about.79c31fe121dfe5c6db40.png",
+    "static/media/next.svg": "/patel_yash/static/media/next.fc272ac207d4e14a9bac2e2293f57e17.svg",
+    "static/media/github.svg": "/patel_yash/static/media/github.a41b383cab20c1dee849db5cf0b8eaa1.svg",
+    "index.html": "/patel_yash/index.html",
+    "main.c7cfcab8.css.map": "/patel_yash/static/css/main.c7cfcab8.css.map",
+    "main.073905ec.js.map": "/patel_yash/static/js/main.073905ec.js.map",
+    "453.bb257cf5.chunk.js.map": "/patel_yash/static/js/453.bb257cf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7cfcab8.css",
+    "static/js/main.073905ec.js"
+  ]
+}
