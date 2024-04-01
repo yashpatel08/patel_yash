@@ -955,4 +955,8 @@ li {
     .home2{
         margin-left: 3vh;
     }
+
+    .project-slide{
+        height: fit-content;
+    }
 }
