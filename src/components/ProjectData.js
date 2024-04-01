@@ -23,7 +23,7 @@ export const projects = [
             "API integration" 
         ],
         link: "",
-        dec: "Created a dynamic website displaying daily news articles using React.",
+        dec: "News Network is a web application that provides a curated collection of daily news articles from various categories, including Business, Entertainment, General, Health, Science, Sports, and Technology.",
         repo: "https://github.com/yashpatel08/News-Network",
     },
     {

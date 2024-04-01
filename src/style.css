@@ -459,7 +459,6 @@
     padding: 0vh 2vh 0vh 2vh;
     line-height: 20px;
     text-align: start;
-    height: 13vh;
 }
 
 .contact-container {
@@ -958,5 +957,12 @@ li {
 
     .project-slide{
         height: fit-content;
+    }
+
+    .project-container{
+        height: 110vh;
+    }
+    .project-slide{
+        height: 80vh;
     }
 }
