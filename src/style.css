@@ -699,12 +699,13 @@ li {
         text-wrap: wrap;
         display: flex;
         flex-direction: column;
-        padding: 1vh;
-        margin-left: 4vh;
+        padding: 0vh;
+        margin-left: 1vh;
     }
 
     .home2 {
-        width: 50vh;
+        margin-left: 1vh;
+        width: 38vh;
         overflow: hidden;
     }
 
@@ -937,5 +938,18 @@ li {
 
     .experience {
         margin-left: 0;
+    }
+}
+
+@media all and (min-width:321px) and (max-width: 480px) {
+    .contact-input{
+        display:grid;
+        text-align: center;
+        margin-left: 18vh;
+        justify-content: center;
+        align-items: center;
+    }
+    .c-input{
+        width: 220px;
     }
 }
