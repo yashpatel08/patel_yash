@@ -859,7 +859,6 @@ li {
         display: flex;
         flex-direction: column;
         margin-bottom: 5vh;
-        margin-left: 2vh;
     }
 
     .contact-form {
