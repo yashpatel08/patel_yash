@@ -843,7 +843,6 @@ li {
         display: block;
         align-items: center;
         justify-content: center;
-        width: 30%;
     }
 
     .contact-form {
@@ -944,7 +943,7 @@ li {
     .contact-input{
         display:grid;
         text-align: center;
-        margin-left: 18vh;
+        margin-left: 11vh;
         justify-content: center;
         align-items: center;
     }
