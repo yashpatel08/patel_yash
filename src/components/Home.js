@@ -23,8 +23,8 @@ const Home = () => {
           <a href={PatelYash_Resume} target="_blank" download>
 
             <button onClick={() =>
-              window.open(
-                `https://drive.google.com/file/d/1p9EL_LIYXYGPzspyH7sFhdAYSkmEy7I4/view?usp=sharing`
+                           window.open(
+                `https://drive.google.com/file/d/1i1HAz109z4gOKMds8gwzMlJl_RrlRJzP/view?usp=drive_link`
               )
             } >Download CV</button>
           </a>
