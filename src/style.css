@@ -840,7 +840,8 @@ li {
     }
 
     .contact-input {
-        display: block;
+        display: grid;
+        text-align: center;
         align-items: center;
         justify-content: center;
     }
@@ -948,7 +949,7 @@ li {
         align-items: center;
     }
     .c-input{
-        width: 220px;
+        width: 210px;
     }
     .home2{
         margin-left: 3vh;
