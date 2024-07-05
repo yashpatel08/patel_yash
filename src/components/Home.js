@@ -24,7 +24,7 @@ const Home = () => {
 
             <button onClick={() =>
                            window.open(
-                `https://drive.google.com/file/d/1i1HAz109z4gOKMds8gwzMlJl_RrlRJzP/view?usp=drive_link`
+                `https://drive.google.com/file/d/1fTef8G_58TcXjmFo_CDRK_JHZNS1D-1n/view?usp=sharing`
               )
             } >Download CV</button>
           </a>
